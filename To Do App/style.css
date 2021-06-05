@@ -1,0 +1,62 @@
+body{
+    background-image: url(image/LA.jpg);
+}
+.head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 80px;
+margin-top: 0%;
+}
+section{
+    background-color: blanchedalmond;
+    width: 70%;
+    height: 120%;
+    box-shadow: 12px 12px 2px 1px rgba(151, 92, 153, 0.2);
+    padding: auto;
+    margin: auto;
+     margin-top: 1%;
+}
+input {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    border-radius:5px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    width:70% 
+}
+.delbtna{
+    background: red;
+	border:1px solid black;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+    padding: 5px;
+}
+.addbtn{
+    background: green;
+	border:1px solid black;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+    padding: 5px;
+    margin: 5px;
+}
+.fa-pencil-square-o{
+    font-size: 30px !important;
+    margin: 4px;
+    color: purple;
+}
+.fa-trash{
+    font-size: 30px !important;
+    margin: 4px;
+    color: purple;
+}
+li{
+    font-size: 20px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+list-style-type: none;
+}
+
